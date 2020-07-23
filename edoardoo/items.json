@@ -33,7 +33,7 @@
 
   { "type": "mute", "width": 62, "align": "right" , "bordered": false},
   { "type": "sleep", "align":"right", "width": 50 , "bordered": false},
-  { "type": "network", "flip": true, "align": "right", "bordered": false , "width": 70 },
+  { "type": "network", "flip": true, "align": "right", "bordered": false , "width": 80 },
   { "type": "battery", "align": "right", "bordered": false },
   { "type": "timeButton", "align": "right", "bordered": false, "formatTemplate": "HH:mm:ss" , "width": 70 }
 ]
